@@ -1,0 +1,40 @@
+
+body {
+  background-color: #f6f5f1;
+  border-color: #790c5a;
+  border-width: 12px;
+  border-style: solid;
+}
+
+.titulo1{
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  margin-bottom: 9vh;
+  
+}
+.titulo2{
+  margin-top: 3vh;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+.descripcion{
+  text-align: center;
+  margin-bottom: 8vh;
+}
+.nosotros {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 3fr);
+  margin: 0 auto;
+  padding: 0;
+}
+
+.Fto {
+  max-width: 100vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+
+

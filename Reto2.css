@@ -1,0 +1,13 @@
+body {
+  background-color: black; 
+}
+
+.hojasPino{
+  color: green; 
+  margin-bottom: 0px;
+}
+
+.troncoPino{
+  margin-top: 0px;
+color: brown;
+}
